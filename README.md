@@ -1,6 +1,32 @@
-# CS_300
-#What was the problem you were solving in the projects for this course? In the projects for this course, the main problem was figuring out how to handle course information efficiently. This included tasks like storing details about courses, quickly finding specific course information, and checking if prerequisites were correct. We had to pick the best tools, like using hash tables for fast searches or sorting data when needed, to make everything work smoothly. The focus was on making a system that was both fast and organized while using memory efficiently.
-#How did you approach the problem? Consider why data structures are important to understand. To solve the problem, I broke it into smaller parts like storing, searching, and checking course details. Data structures were key because they affect how fast and organized the program can be. For example, hash tables are great for quick searches, vectors are simple for storage, and binary search trees help keep things sorted. By picking the right data structure for each task, I made sure the program worked well and handled information quickly and efficiently.
-#How did you overcome any roadblocks you encountered while going through the activities or project? When I faced challenges during the project, I focused on breaking the problem into smaller parts to figure out what was going wrong. If a data structure or method did not work well, I went back to the basics and tried different options. I also looked up information, tested current ideas, and used what I learned from the course. If I were still stuck, I would use YouTube or Google to search specifically how to do something. . By staying calm and flexible, I was able to solve problems and keep making progress.
-#How has your work on this project expanded your approach to designing software and developing programs? Working on this project taught me how to break down problems into smaller steps and pick the best tools to solve them. I learned how important it is to choose the right data structures to make programs faster and more efficient. It also showed me how to test and improve my ideas when something does not work. Overall, it helped me create better programs by focusing on practical solutions and making sure they work well for the user.
-#How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable? This project helped me write programs that are easy to understand and update. I learned to organize my code better, use clear names, and keep it simple so others can work on it too. Choosing the right tools, like data structures, made it easier to handle changes or add new features later. Overall, it showed me how to make programs that are dependable and flexible for the future.
+# CS_300 Project
+
+This project focuses on handling course information efficiently, including storing details, quickly finding specific information, and verifying prerequisites. The goal was to develop a system that is fast, organized, and memory-efficient.
+
+## Project Objectives
+1. Efficiently store and manage course details.
+2. Enable quick search and retrieval of specific information.
+3. Ensure the correct handling and verification of prerequisites.
+
+## Problem-Solving Approach
+The problem was approached in three parts:
+1. **Storage:** Using appropriate data structures for efficient data handling.
+2. **Searching:** Employing hash tables for fast lookups and binary search trees for sorted data access.
+3. **Validation:** Implementing methods to check and validate course prerequisites effectively.
+
+### Why Data Structures Matter
+Understanding and selecting the right data structures (like vectors, hash tables, and binary search trees) is crucial for creating a system that performs well and is easy to maintain.
+
+## Challenges and Solutions
+- **Breaking Down Problems:** Divided complex tasks into smaller, manageable parts to simplify debugging.
+- **Testing and Iteration:** Experimented with alternative methods and data structures, revisiting fundamentals when necessary.
+- **External Resources:** Leveraged online platforms like YouTube and Google for additional guidance.
+
+## Learning Outcomes
+This project has expanded my skills in:
+- Software design: Breaking down problems and choosing efficient solutions.
+- Writing adaptable programs: Creating maintainable, readable, and flexible code.
+- Problem-solving: Overcoming roadblocks with resourcefulness and persistence.
+
+## Future Improvements
+The current program design sets the groundwork for further enhancements, including optimizing data handling and expanding functionality as needed.
+
